@@ -10,4 +10,4 @@ This is a demo repo for sharing ideas around communication
 
 ### Gist
 
-This is a good example of [my code] (https://gist.github.com/cheetos7/2070efa408302c49884642df00240a9e)
+This is a good example of [my code](https://gist.github.com/cheetos7/2070efa408302c49884642df00240a9e)
