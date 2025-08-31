@@ -14,4 +14,9 @@ This is a good example of [my code](https://gist.github.com/cheetos7/2070efa4083
 
 
 ### Colab Example
-This is the [notebook](https://colab.research.google.com/drive/1vLF0MNiME_thUnd4-mb-pimbwSOXQdMz?authuser=1#scrollTo=VrSX7hBGTWdP)
+This is the [notebook](https://github.com/cheetos7/technical-discussion/blob/main/technical_docs.ipynb)
+
+
+### Image
+
+<img width="190" height="214" alt="image" src="https://github.com/user-attachments/assets/da4a4caf-d68b-4223-b750-72af15562518" />
